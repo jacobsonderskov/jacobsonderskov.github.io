@@ -21,7 +21,7 @@ title                    : "jacobsonderskov.github.io"
 title_separator          : "-"
 subtitle                 : "I wonder..." # site tagline that appears below site title in masthead
 name                     : "Jacob Sønderskov"
-description              : "An amazing website."
+description              : "A perpetual work-in-progress"
 url                      : "https://jacobsonderskov.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : jacobsonderskov/jacobsonderskov.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Jacob H. Sønderskov"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "aka. Bob"
-  location         : "Somewhere over the rainbow"
+  avatar           : "/assets/images/jacob.png"
+  bio              : "pending..."
+  location         : "Jutland, Denmark"
   email            : "jacobsonderskov@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jacobsonderskov@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:jacobsonderskov@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jacobsonderskov.github.io"
@@ -143,13 +143,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://x.com/jacobsonderskov"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/jacobsonderskov"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/jacobsonderskov"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/jacobsonderskov"
 
 
 # Reading Files
