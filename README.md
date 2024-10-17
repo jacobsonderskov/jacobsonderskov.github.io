@@ -10,5 +10,5 @@ Contents are my own and reflect my own thoughts, opinions and ideas. Not any com
 ## Roadmap
 
 - [x] Set up the config, remove the excess stuff, familiarize with the template
-- [] Fail to remove main excess and repeat previous step
-- [] Add actual content TBA
+- [ ] Fail to remove main excess and repeat previous step
+- [ ] Add actual content TBA
