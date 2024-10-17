@@ -1,5 +1,10 @@
 # Changelog
 
+Main changelogs may be viewed via the fork origin at [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/blob/master/CHANGELOG.md)
+
+Other changes may be found below
+
+
 ## Unreleased
 
 ### Enhancements
